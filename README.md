@@ -1,6 +1,6 @@
 # cartoonify
 
-First doumload all the libraries that is required for cartoonifying.
+First download all the libraries that is required for cartoonifying.
 you can download these libraries by going to conda prompt
 
 cv2 /by/ pip install opencv-python,
